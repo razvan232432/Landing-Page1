@@ -1,0 +1,29 @@
+// _reset.scss
+
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  
+  *,
+  *::after,
+  *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+  }
+  
+  a,
+  a:visited,
+  a:hover {
+    text-decoration: none;
+  }
+  
+  ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  h2 {
+    margin: 0.67em 0;
+  }
